@@ -1,0 +1,4 @@
+cv2
+numpy
+segmentation_models_pytorch
+torch
