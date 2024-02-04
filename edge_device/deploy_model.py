@@ -37,7 +37,7 @@ transform = transforms.Compose([
     ])
 
 #configuring logging module
-log_filename = "/log/error_log.txt"
+log_filename = "/edge_device/log/error_log.txt"
 logging.basicConfig(filename=log_filename, level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def warning_func():
