@@ -38,7 +38,7 @@ transform = transforms.Compose([
 
 #configuring logging module
 log_filename = "/edge_device/log/error_log.txt"
-logging.basicConfig(filename=log_filename, level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename=log_filename, level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s',filemode='a')
 
 def warning_func():
     #audio or visual warning 
