@@ -81,6 +81,7 @@ try:
         
 except Exception as e:
     logging.error(f"An unexpected exception occurred: {e}")
+    system_malfunction_warning()
 
 finally: 
     cap.release()
