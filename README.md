@@ -1,4 +1,4 @@
-# LaneDepartureWarningSystem
+# Lane Departure Warning System
 ### Overview
 This repository contains the source code and resources for a Lane Departure Warning System. The system is designed to detect and alert the driver when the vehicle deviates from its lane without the use of turn signals. It utilizes computer vision techniques to process real-time input from a camera mounted on the vehicle.
 ### Features
