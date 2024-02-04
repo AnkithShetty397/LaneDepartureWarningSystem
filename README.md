@@ -16,7 +16,7 @@ This repository contains the source code and resources for a Lane Departure Warn
 ### Installation
 1. Clone the repository
 <pre>
-  git clone https://github.com/AnkithShetty397/LaneDepartureWarningSystem.git
+  git clone https://github.com/AnkithShetty397/Lane_Departure_Warning_System.git
 </pre>
 2. Install dependencies
 <pre>
