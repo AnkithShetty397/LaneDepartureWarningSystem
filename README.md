@@ -31,10 +31,4 @@ This repository contains the source code and resources for a Lane Departure Warn
 * Adjust the hyperparameters for training the model in src/Trainer.ipynb
 * Different parameters related to deploying the system can be adjusted in edge_device/deploy_model.py
 
-### Contribution Guidelines
-I welcome contributions to our project! If you have any questions, concerns, or if you'd like to contribute in any way, please don't hesitate to reach out to me.
-Feel free to contact me via:
-- **Twitter:** [@ankithshetty397](https://twitter.com/ankithshetty397)
-
-I look forward to hearing from you and appreciate your interest in contributing to my project!
 
